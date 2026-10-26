@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-General Authority for Survey and Geospatial Information (GEOSA) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.gasgi.gov.sa/
+General Authority for Survey and Geospatial Information (GEOSA) is the Saudi Arabian governmental authority responsible for national surveying, mapping, and geospatial data management. It oversees the collection, analysis, and dissemination of geospatial information to support urban planning, infrastructure development, environmental monitoring, and public services. GEOSA provides geospatial datasets, standards, and services to government agencies, private sector partners, and researchers, fostering data-driven decision making across the Kingdom.
+
+**Areas:** Company · Government · Geospatial · Surveying · Saudi-Arabia
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.gasgi.gov.sa/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/general-authority-for-survey-and-geospatial-information-geosa/](https://apis.io/providers/general-authority-for-survey-and-geospatial-information-geosa/).
