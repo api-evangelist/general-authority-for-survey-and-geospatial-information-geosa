@@ -72,7 +72,10 @@ General Authority for Survey and Geospatial Information (GEOSA) is the Saudi Ara
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.gasgi.gov.sa/)
+- [Website](https://geosa.gov.sa/)
+- [Documentation](https://geosa.gov.sa/en/Pages/default.aspx)
+- [Terms of service](https://geosa.gov.sa/ar/controlAndcompliance/Pages/terms.aspx)
+- [Privacy policy](https://geosa.gov.sa/ar/controlAndcompliance/Pages/privacypolicy.aspx)
 
 ## API Evangelist rating
 
